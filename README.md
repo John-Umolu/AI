@@ -17,7 +17,7 @@ Below where some results obtained;
 
 
 # Credits:
-Some of the code I used in implementing the Preferential algorithm for the Barabasi-Albert network where obtained from the below sources.<br/>
+Some of the code I used in implementing the preferential algorithm for the Barabasi-Albert network where obtained from the below sources.<br/>
 https://networkx.org/<br/>
 https://www.geeksforgeeks.org/barabasi-albert-graph-scale-free-models/<br/>
 https://www.tutorialspoint.com/python_data_science/python_matplotlib.htm<br/>
