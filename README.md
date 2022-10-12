@@ -2,13 +2,11 @@
 This analysis using the preferential attachment algorithm to build the Barabasi-Albert Model 
 to study some topographical properties of a complex network was carried out as part of my Data Science assessment. 
 
-![Network graph](https://user-images.githubusercontent.com/106328663/195363523-45d6f08d-2137-4037-9c31-213196dce7e3.png)
-![6s_30e_ShortestPath_n50_m2](https://user-images.githubusercontent.com/106328663/195363698-d4386df5-9c60-4722-ad8c-4ab20a3977fa.png)
-![2_Neighbours_n50_m2](https://user-images.githubusercontent.com/106328663/195363983-d7eb9edc-312b-4c84-ba56-fcc3ccdc2bfc.png)
-![18_25Common_Neighbours_n50_m2](https://user-images.githubusercontent.com/106328663/195364088-c6925fd5-fdd7-4f73-b827-f2d9a21e75d1.png)
-![DegreeDist_n50_m2](https://user-images.githubusercontent.com/106328663/195364212-155f7c58-5c7f-40df-8204-ee7d53334d5f.png)
-![Higest_Degree_node_50_m2](https://user-images.githubusercontent.com/106328663/195364325-470a19bb-e64e-4cf6-bd01-e8701e695caa.png)
-![Network_betweenness_n50_m2](https://user-images.githubusercontent.com/106328663/195425909-517f3fc9-3927-4007-9ea8-599268e2517d.png)
+![Network_plot_n50_m2](https://user-images.githubusercontent.com/106328663/195438336-a34b4c40-310b-4b4d-9d91-a9c9df1123a0.png)
+![git1](https://user-images.githubusercontent.com/106328663/195438411-d36aacaa-9685-46d3-9eb9-125dfe15d170.png)
+![git2](https://user-images.githubusercontent.com/106328663/195438447-c6d66665-da70-4b29-850b-49edefc44449.png)
+![Network_betweenness_n50_m2](https://user-images.githubusercontent.com/106328663/195438525-4fb783ad-8fd4-456d-9b22-df3badcb8a17.png)
+
 
 
 References:
