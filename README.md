@@ -9,7 +9,9 @@ to study some topographical properties of a complex network was carried out as p
 
 
 
-References:
-https://networkx.org/,
-https://www.geeksforgeeks.org/barabasi-albert-graph-scale-free-models/,
-https://www.tutorialspoint.com/python_data_science/python_matplotlib.htm,
+# Credits:
+Some of the code I used in implementing the Preferential algorithm for the Barabasi-Albert network where obtained from the below sources.
+https://networkx.org/<br/>
+https://www.geeksforgeeks.org/barabasi-albert-graph-scale-free-models/<br/>
+https://www.tutorialspoint.com/python_data_science/python_matplotlib.htm<br/>
+Special thanks to the authors.
