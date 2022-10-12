@@ -8,6 +8,8 @@ to study some topographical properties of a complex network was carried out as p
 ![18_25Common_Neighbours_n50_m2](https://user-images.githubusercontent.com/106328663/195364088-c6925fd5-fdd7-4f73-b827-f2d9a21e75d1.png)
 ![DegreeDist_n50_m2](https://user-images.githubusercontent.com/106328663/195364212-155f7c58-5c7f-40df-8204-ee7d53334d5f.png)
 ![Higest_Degree_node_50_m2](https://user-images.githubusercontent.com/106328663/195364325-470a19bb-e64e-4cf6-bd01-e8701e695caa.png)
+![Network_betweenness_n50_m2](https://user-images.githubusercontent.com/106328663/195425909-517f3fc9-3927-4007-9ea8-599268e2517d.png)
+
 
 References:
 https://networkx.org/,
