@@ -1,6 +1,6 @@
 # Barabasi-Abert network analysis
 This analysis using the preferential attachment algorithm to build the Barabasi-Albert Model 
-to study some topographical properties of a complex network was carried out as part of my Data Science assessment. 
+to study some topographical properties of a complex network was carried out as part of the Data Science assessment. 
 <br/>
 Assign any value of the number of nodes (n) and edges (m) and run all to view results at the cell as shown below;
 <br/>
@@ -17,7 +17,7 @@ Below where some results obtained;
 
 
 # Credits:
-Some of the code used in implementing the preferential algorithm for the Barabasi-Albert network where obtained from the below sources.<br/>
+Some of the code used in implementing the preferential algorithm for the Barabasi-Albert network was obtained from the below sources.<br/>
 https://networkx.org/<br/>
 https://www.geeksforgeeks.org/barabasi-albert-graph-scale-free-models/<br/>
 https://www.tutorialspoint.com/python_data_science/python_matplotlib.htm<br/>
